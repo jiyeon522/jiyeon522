@@ -12,8 +12,7 @@
 
 ## 🧠 주요 프로젝트
 
-- 🚗 **[차량 AI 프로젝트](https://github.com/GaramSong-95/Project-SmartSurround)**:  
-**🏅 Intel Edge AI Academy 최종프로젝트 경진대회 – 최우수상 수상작**  
+- 🚗 **[차량 AI 프로젝트](https://github.com/GaramSong-95/Project-SmartSurround)**:    
   YOLO + BoxMOT 기반으로 과속·졸음운전 차량을 인식하고 CAN 통신으로 알림 전송
 
 - 🛡 **[페스트가드](https://github.com/GaramSong-95/Project-PestGuard)**:  
@@ -59,12 +58,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-7348B6?style=flat)
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaramSong-95&show_icons=true&theme=tokyonight)
 
 ---
 

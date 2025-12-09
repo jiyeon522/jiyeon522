@@ -49,14 +49,9 @@
 - FPGA에 연결된 카메라 데이터를 처리하여 **청기백기 게임** 등 인터랙티브 시스템을 완성했습니다.
 - RGB-HSV 색상 공간 처리, 마커 위치 추적, 속도 추정 등 **간단한 비전 로직을 HDL로 직접 구현**한 경험이 있습니다.
 
-----
+---
 
 # 📑Project
-----
-
-📫 How to reach me: [rlawldus030406@gmail.com](mailto:rlawldus030406@gmail.com)   
-
-## 🧠 주요 프로젝트
 
 - 🚀 **[I2C / VGA 기반 우주탐험 게임](https://github.com/jiyeon522/Project-I2C_VGA_Space_Exploration_Game)**:    
   FPGA 보드와 VGA 모니터 출력을 활용하여 구현한 레트로 감성의 실시간 우주 슈팅 게임
@@ -77,7 +72,7 @@
   카메라 영상 처리 기술을 활용해 사용자의 피부 톤 데이터를 분석하고 최적의 퍼스널 컬러를 진단하는 솔루션
 
 
-----
+---
 
 ## 🛠 기술 스택
 

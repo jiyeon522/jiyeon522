@@ -1,4 +1,4 @@
-<img width="664" height="448" alt="image" src="https://github.com/user-attachments/assets/23153a75-78fd-47d6-8268-a4956a65c600" /># 👋 안녕하세요, ~~~~ 개발자입니다!
+# 👋 안녕하세요, ~~~~ 개발자입니다!
 
 **🏅 Harman Semicon Academy 수료**  
   

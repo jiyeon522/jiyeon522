@@ -110,7 +110,7 @@
 - ⚙️ **[RISC-V AMBA Peripheral 설계](https://github.com/jiyeon522/Project-RISC-V_AMBA_Peripheral_Design)**:  
   RISC-V 코어와 연동되는 AMBA 버스(AHB, APB) 기반의 다양한 주변장치(Peripheral) 및 SoC 구조 설계
 
-  - 🔍 **[SystemVerilog 기반 UART/FIFO Counter 검증 시스템 구축](https://github.com/jiyeon522/Project-UART_FIFO_Counter_Design_Verification)**:
+- 🔍 **[SystemVerilog 기반 UART/FIFO Counter 검증 시스템 구축](https://github.com/jiyeon522/Project-UART_FIFO_Counter_Design_Verification)**:
   SystemVerilog의 OOP와 Randomization 기법을 도입하여 UART 및 FIFO 회로의 데이터 무결성을 검증하고 자동화된 Testbench 설계
 
 - 🧠 **[RISC-V RV32I 기반 Single Cycle CPU Core 설계](https://github.com/jiyeon522/Project-Single_Cycle_CPU)**:  

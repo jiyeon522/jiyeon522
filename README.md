@@ -119,6 +119,9 @@
 - 🎨 **[사용자 맞춤형 퍼스널 컬러 진단 시스템 개발](https://github.com/jiyeon522/Project-Python_Personal_color)**:  
   카메라 영상 처리 기술을 활용해 사용자의 피부 톤 데이터를 분석하고 최적의 퍼스널 컬러를 진단하는 솔루션
 
+- 🔍 **[SystemVerilog 기반 UART/FIFO Counter 검증 시스템 구축](https://github.com/jiyeon522/Project-Python_Personal_color)**:
+  SystemVerilog의 OOP와 Randomization 기법을 도입하여 UART 및 FIFO 회로의 데이터 무결성을 검증하고 자동화된 Testbench 설계
+
 ---
 
 📫 궁금한 점이 있다면 언제든지 연락 주세요!

@@ -10,7 +10,7 @@
 
 ## 🧠 주요 프로젝트
 
-- 🚀 **[I2C / VGA 기반 우주탐험 게임](https://github.com/GaramSong-95/Project-SmartSurround)**:    
+- 🚀 **[I2C / VGA 기반 우주탐험 게임](https://github.com/jiyeon522/Project-I2C_VGA_Space_Exploration_Game)**:    
   FPGA 보드와 VGA 모니터 출력을 활용하여 구현한 레트로 감성의 실시간 우주 슈팅 게임
 
 - 🔗 **[AXI4-Lite 기반 SPI/I2C 통신 프로토콜 설계](https://github.com/GaramSong-95/Project-PestGuard)**:  

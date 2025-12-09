@@ -4,7 +4,7 @@
 
 🕍  서울기술교육센터 Harman Semicon Academy 수료
 
-📧  **Email** | cong2738@gmail.com
+📧  **Email** | rlawldus030406@gmail.com
 
 # 🛠️ HW Engineer
 
